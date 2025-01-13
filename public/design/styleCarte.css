@@ -15,8 +15,8 @@
 
 .iconeCarte{
     position: absolute;
-    width: 20px !important;
-    height: 20px !important;
+    width: 30px !important;
+    height: 30px !important;
     transition: 200ms;
 }
 

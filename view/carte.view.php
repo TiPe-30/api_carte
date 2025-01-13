@@ -87,7 +87,7 @@
             </div>
         </div>
         <div id="carteDroite">
-            <img src="public/design/img/iconeCarte.jpg" class="iconeCarte" id="Limousin">
+            <img src="public/design/img/imageCarte.png" class="iconeCarte" id="Limousin">
             <img src="public/design/img/carte.png" alt="Carte régionale">
         </div>
     </section>
