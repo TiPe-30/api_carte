@@ -20,9 +20,71 @@
     transition: 200ms;
 }
 
-#Limousin{
-    left: 20%;
+#Bretagne{
+    left: 15%;
     top: 30%;
+}
+
+#Occitanie{
+    left: 55%;
+    top: 75%;
+}
+
+#Provence-Alpes-Côte{
+    left: 85%;
+    top: 78%;
+}
+
+#Corse {
+    left: 9%;
+    top: 85%;
+}
+
+#Ile-de-France{
+    left: 54%;
+    top: 24%;
+}
+
+#Normandie{
+    left: 30%;
+    top: 20%;
+}
+
+#Hauts-de-France{
+    left: 55%;
+    top: 6%;
+}
+
+#Centre-Val{
+    left: 39%;
+    top: 38%;
+}
+
+/* Pays de la loire */
+#Pays{
+    left: 22%;
+    top: 40%;
+}
+
+#Nouvelle-Aquitaine{
+    left: 32%;
+    top: 65%;
+}
+
+#Auvergne-Rhône-Alpes{
+    left: 75%;
+    top: 65%;
+}
+
+#Bourgogne-Franche-Comté{
+    left: 75%;
+    top: 40%;
+}
+
+/* Grand Est */
+#Grand{
+    left: 82%;
+    top: 21%;
 }
 
 .iconeCarte:hover{

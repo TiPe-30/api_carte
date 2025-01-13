@@ -47,6 +47,7 @@ class Lieu {
 class PackRencontre{
     nom; // nom de la rencontre
     nbpersonne; // affichage nbPersonne/30
+    nbPersonneMax;
     date; // date de la rencontre
 }
 

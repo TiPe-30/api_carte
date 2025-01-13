@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="public/design/style.css" type="text/css">
     <link rel="stylesheet" href="public/design/styleCarte.css" type="text/css">
+    <script src="public/" async></script>
     <!-- Pour les logos menu hamburger-->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css" integrity="sha512-YWzhKL2whUzgiheMoBFwW8CKV4qpHQAEuvilg9FAn5VJUDwKZZxkJNuGM4XkWuk94WCrrwslk8yWNGmY1EduTA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <title>Site archéologique</title>
@@ -87,7 +88,21 @@
             </div>
         </div>
         <div id="carteDroite">
-            <img src="public/design/img/imageCarte.png" class="iconeCarte" id="Limousin">
+            <img src="public/design/img/imageCarte.png" class="iconeCarte" id="Bretagne">
+            <img src="public/design/img/imageCarte.png" class="iconeCarte" id="Occitanie">
+            <img src="public/design/img/imageCarte.png" class="iconeCarte" id="Provence-Alpes-Côte">
+            <img src="public/design/img/imageCarte.png" class="iconeCarte" id="Corse">
+            <img src="public/design/img/imageCarte.png" class="iconeCarte" id="Ile-de-France">
+            <img src="public/design/img/imageCarte.png" class="iconeCarte" id="Normandie">
+            <img src="public/design/img/imageCarte.png" class="iconeCarte" id="Hauts-de-France">
+            <img src="public/design/img/imageCarte.png" class="iconeCarte" id="Centre-Val">
+            <img src="public/design/img/imageCarte.png" class="iconeCarte" id="Pays">
+            <img src="public/design/img/imageCarte.png" class="iconeCarte" id="Nouvelle-Aquitaine">
+            <img src="public/design/img/imageCarte.png" class="iconeCarte" id="Auvergne-Rhône-Alpes">
+            <img src="public/design/img/imageCarte.png" class="iconeCarte" id="Bourgogne-Franche-Comté">
+            <img src="public/design/img/imageCarte.png" class="iconeCarte" id="Grand">
+        
+
             <img src="public/design/img/carte.png" alt="Carte régionale">
         </div>
     </section>
